@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Notisave</string>
+    <string name="block_notifications">Block notifications</string>
+    <string name="settings">Settings\n</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="next">Next</string>
+    <string name="add_to_group">Add to group</string>
+</resources>
